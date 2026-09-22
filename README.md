@@ -58,3 +58,21 @@ the Solar System in an immersive virtual environment.
 
 ```bash
 git clone https://github.com/namratasahoo23-rgb/Solar-System-VR.git
+```
+
+2. Open **Unity Hub**.
+
+3. Click **Add** → **Add project from disk**.
+
+4. Select the cloned **Solar-System-VR** folder.
+
+5. Open the project using the compatible Unity version.
+
+6. Connect your compatible VR headset to the PC.
+
+7. Open the main scene from the **Assets** folder.
+
+8. Press the **Play** button in Unity to run the experience.
+
+9. Put on the VR headset and interact with the Solar System using the VR controllers.
+
